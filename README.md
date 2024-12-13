@@ -1,11 +1,12 @@
 # 目录
-红队武器库VulToolsKit漏洞利用工具合集整理，解压密码：LightDream，欢迎关注公众号：浅梦安全
+红队武器库VulToolsKit漏洞利用工具合集整理二开
 
-V1.1下载链接：（因为文件太大了上传Github不太方便，所以就挂网盘了，）
+## 在极梦的基础上添加了一个和onefox一样的UI界面，并且内置了python和java环境，不需要再额外配置环境。
 
-夸克网盘「VulToolsKit漏洞利用工具合集.zip」链接：https://pan.quark.cn/s/59975ef47afa
-
-百度网盘VulToolsKit漏洞利用工具合集.zip链接: 关注公众号：浅梦安全回复：VulToolsKitV1.1获取
+下载链接：
+百度网盘：
+通过网盘分享的文件：VulToolsKit.zip
+链接: https://pan.baidu.com/s/1MAndjo0sqTYwzr1oQ0eLRQ?pwd=cnpc 提取码: cnpc
 
 ```
 海康威视Hikvision综合漏洞利用工具
